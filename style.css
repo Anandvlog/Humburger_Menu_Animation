@@ -32,9 +32,10 @@ body
 .nav li a 
 {
 	color:#fff;
+	text-transform: uppercase;
 	text-decoration: none;
 }
-.nav li a :hover
+.nav li a:hover
 {
 	font-weight: bold;
 	 
